@@ -8,4 +8,5 @@ Melhorias implementadas por mim:
 4. **Array.from**: Usei `Array.from` para criar um array de um determinado comprimento, o que é mais legível do que um loop `for`.
 5. **Melhoria na Legibilidade**: O código foi organizado para melhorar a legibilidade e a manutenção.
 6. **Melhorias Visuais**: Implementei sombras aos cards e fundo "acrílico" nos espaços em branco para os cards das batalhas.
+7. **Melhorias de áudio**: Implementei som para o empate.
   
